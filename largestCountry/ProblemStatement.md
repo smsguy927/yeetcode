@@ -30,7 +30,7 @@ representing the countries total population
 
  Output:   
  ```js
- { name: 'USA', population: 12200000 }
+ {name: 'USA', population: 12200000 }
 
 
 const largestCountry = (countries, cities, populations) => {
