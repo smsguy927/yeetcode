@@ -37,4 +37,5 @@ var isPalindrome = function(x) {
 
 # Additional Test Cases
 
-## Provide additional test cases here
+## Provide additional test cases here 
+Don't forget that 0 is a palindrome!
